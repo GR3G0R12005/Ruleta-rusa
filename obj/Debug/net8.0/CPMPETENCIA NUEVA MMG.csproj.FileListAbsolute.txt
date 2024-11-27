@@ -1,0 +1,80 @@
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.exe
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.deps.json
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.runtimeconfig.json
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.pdb
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\refint\CPMPETENCIA NUEVA MMG.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.pdb
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\ref\CPMPETENCIA NUEVA MMG.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\EPPlus.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\obj\Debug\net8.0\CPMPETEN.D870610F.Up2Date
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\NAudio.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\grego\OneDrive\Escritorio\CPMPETENCIA NUEVA MMG\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.exe
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.deps.json
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.runtimeconfig.json
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\CPMPETENCIA NUEVA MMG.pdb
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\EPPlus.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\NAudio.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\CPMPETEN.D870610F.Up2Date
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\refint\CPMPETENCIA NUEVA MMG.dll
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.pdb
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\CPMPETENCIA NUEVA MMG.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Escritorio\Competencia1.0\obj\Debug\net8.0\ref\CPMPETENCIA NUEVA MMG.dll
